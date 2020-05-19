@@ -26,7 +26,7 @@ SECRET_KEY = 'c620+10(36e)x7&g*1c1t06x+^v^cynhrsn=f($0-%z_5i^^i)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [taikohello.herokuapp.com]
 
 
 # Application definition
